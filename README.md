@@ -9,3 +9,4 @@ All projects and assignments are based on [**'2024 Spring Machine Learning(2)'**
 ### Team Information
 - Team Name : 휴먼 러닝
 - Members : 이정민, 이정훈, 조성혁
+- [Team Project Github Link](https://github.com/users/liebenholz/projects/2)
