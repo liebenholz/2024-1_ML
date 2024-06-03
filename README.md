@@ -24,4 +24,5 @@ All projects and assignments are based on [**'2024 Spring Machine Learning(2)'**
 - **[240422-240428]**  Midterm Assignment : [Classifying Emotions during Debate using Physiological Responses](https://www.kaggle.com/competitions/2024-knu-ml-midterm)
 - **[240523-240529]**  Individual Assignment #4 : [Nurse Stress Prediction using Wearable Sensors](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt4)
 - **[240633-240609]**  Individual Assignment #5 : [Doom or Amimal Crossing Image Classification](https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt5)
+- **[240610-240619]**  Final Assignment : Model Building and Evaluation for HAR
 
