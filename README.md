@@ -24,5 +24,5 @@ All projects and assignments are based on <a href="https://knu-p4c-lab.github.io
 - **[240422-240428]**  Midterm Assignment : <a href="https://www.kaggle.com/competitions/2024-knu-ml-ind-midterm" target="_blank">Classifying Emotions during Debate using Physiological Responses</a>
 - **[240523-240529]**  Individual Assignment #4 : <a href="https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt4" target="_blank">Nurse Stress Prediction using Wearable Sensors</a>
 - **[240633-240609]**  Individual Assignment #5 : <a href="https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt5" target="_blank">Doom or Amimal Crossing Image Classification</a>
-- **[240610-240619]**  Final Assignment : <a href="https://www.kaggle.com/competitions/2024-knu-ml-team-asmt" target="_blank">Model Building and Evaluation for HAR</a>
+- **[240610-240619]**  Final Team Assignment : <a href="https://www.kaggle.com/competitions/2024-knu-ml-team-asmt" target="_blank">Model Building and Evaluation for HAR</a>
 
