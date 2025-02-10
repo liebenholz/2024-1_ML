@@ -4,10 +4,8 @@ All projects and assignments are based on <a href="https://knu-p4c-lab.github.io
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=ScikitLearn&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> 
 
 ### Notice
-- [240416] <a href="https://knu-p4c-lab.https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt3" target="_blank">**'Individual Assignment #3'**</a> **has been invalidated**. All participants in Kaggle Competition got a full-score(9/9).
-- [240416] Since the unfair evaluation might occur, due to some students cheating on model training with public dataset.
+- [240416] <a href="https://knu-p4c-lab.https://www.kaggle.com/competitions/2024-knu-ml-ind-asmt3" target="_blank">**'Individual Assignment #3'**</a> **has been invalidated**. All participants got a full-score(9/9), due to public dataset leakage.
 - [240422] From now on, all students should follow the <a href="https://colab.research.google.com/drive/1BWC3u2pijI48jpgaoxy4vkn3f5i6U_v8?usp=sharing" target="_blank">'jupyter notebook template'</a>. 
-- [240422] Each student must have a same result with a submitted jupyter notebook and Kaggle Competition final score.
 
 ### Team Information
 - Team Name : 휴먼 러닝
